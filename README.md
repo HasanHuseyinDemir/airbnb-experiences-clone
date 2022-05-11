@@ -1,5 +1,5 @@
 # Airbnb Clone
-React componentlerinde props kullanarak olabildiğince sadece ve çeşitli kartlar oluşturduğum airbnb experiences sayfasıdır.
+React componentlerinde props kullanarak olabildiğince sade ve çeşitli kartlar oluşturduğum airbnb experiences sayfasıdır.
 
 Figma örneğinden yola çıkarak sayfayı hazırladım.
 
