@@ -1,3 +1,5 @@
+
+
 .header{
   height: 70px;
   box-shadow: 3px 3px 10px rgb(205, 205, 205);
@@ -8,4 +10,51 @@
   margin-left: 30px;
   width: 100px;
   height: auto;
+}
+
+.slideCard{
+  margin-top: 2%;
+  width: 180px;
+  height: 250px;
+  
+}
+
+.slideCard>.state{
+  font-size: 11px;
+  background-color: white;
+  border-radius: 2px;
+}
+
+.slideCard>img{
+  width: 176px;
+  height: 235px;
+  border-radius: 9px;
+  position: relative;
+}
+.slideCard>.article{
+  font-size: 12px;
+  margin-top: 0px;
+}
+.slideCard .gray{
+  color: gray;
+}
+.slider{
+  display: flex;
+  justify-content: space-around;
+  width: auto;
+}
+
+.experiences,.covers{
+  padding-left: 32px;
+}
+
+.experiences>p{
+  height:56px; 
+  width:320px;
+  margin-bottom: 32px;
+  font-size: 16px;
+  font-weight: 300;
+}
+.slideCard>p{
+  margin: 2px;
 }
