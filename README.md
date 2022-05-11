@@ -7,4 +7,4 @@ Figma örneğinden yola çıkarak sayfayı hazırladım.
 https://www.figma.com/file/4YjrygFEXOcDp9AAnVFv7o/Airbnb-Experiences?node-id=2%3A2
 
 # Ekran Görüntüsü
-[Airbnb Clone ScreenShot](https://github.com/HasanHuseyinDemir/airbnb-experiences-clone/blob/master/image.JPG)
+![Airbnb Clone ScreenShot](https://github.com/HasanHuseyinDemir/airbnb-experiences-clone/blob/master/image.JPG)
